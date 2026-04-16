@@ -42,3 +42,4 @@ Avoid overly literal patterns when possible:
 - *la risque* → **le risque**
 - *transformer à* → **transformer en**
 - *surveilleraient régulièrement* → **surveilleraient régulièrement le site** / **assureraient un suivi régulier**
+

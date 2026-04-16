@@ -4,28 +4,36 @@
 
 Hydro-Québec envisage d’importer de l’électricité des États-Unis pour répondre à une demande énergétique croissante. Le projet soulève plusieurs défis techniques et logistiques : adaptation du réseau, pertes d’énergie, coûts, délais et gestion des risques.
 
-Informations fournies
-1. Problème de tension:
+Informations fournies  
+
+1. Problème de tension:  
    - La tension fournie par les centrales américaines est inférieure aux normes québécoises.
    - Cela nécessite une adaptation du réseau pour éviter des pertes d'énergie.
-2. Systèmes électriques différents :
+  
+2. Systèmes électriques différents :  
    - Les États-Unis utilisent un système de 60 Hz, tandis que le Québec utilise un système de 50 Hz.
-   - Cette différence nécessite une conversion de fréquence.
-3. Défis logistiques :
+   - Cette différence nécessite une conversion de fréquence.  
+  
+3. Défis logistiques :  
    - La distance entre les centrales américaines et le réseau québécois est importante.
    - Le transport de l'électricité sur de longues distances entraîne des pertes d'énergie.
-4. Coûts et délais :
+
+4. Coûts et délais :  
    - Les adaptations techniques et logistiques pourraient augmenter les coûts et prolonger les délais.
----
-Tâches à accomplir
+
+### Tâches à accomplir  
+
 1. **Analyse des défis** :
    - Identifier les problèmes techniques (tension, fréquence) et proposer des solutions.
    - Évaluer les coûts et les délais associés à ces solutions.
+
 2. **Planification technique** :
    - Proposer un plan pour adapter le réseau électrique québécois.
    - Inclure des solutions pour minimiser les pertes d'énergie.
+  
 3. **Gestion des risques** :
    - Identifier les risques potentiels (pannes, surcoûts) et proposer des mesures pour les atténuer.
+
 4. **Communication avec les parties prenantes** :
    - Expliquer les défis et les solutions aux autorités locales et aux partenaires américains.
    - Assurer la transparence sur les coûts et les délais.
@@ -64,7 +72,7 @@ Tâches à accomplir
 - **Transparence** : Mettre en place un site web pour informer le public.
 —
 1. Quelles autres solutions techniques recommanderais-tu pour ce projet ?
-1. Utilisation de systèmes de stockage d'énergie**
+2. Utilisation de systèmes de stockage d'énergie**
 - **Batteries à grande échelle** :  
   Installer des batteries de stockage d'énergie près des points d'interconnexion pour stabiliser le réseau et compenser les variations de tension ou de fréquence.  
   *Par exemple, des batteries lithium-ion ou des systèmes de stockage par air comprimé.*
