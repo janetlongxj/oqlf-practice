@@ -40,16 +40,20 @@ extra_css:
 
 nav:
   - Home / Accueil: index.md
-  - Case / Cas: 
-      - case 1: case/electricity-import.md
-      - case 2: case/workplace-accident.md
-      - case 3: case/nuclear-decommissioning.md
-      - case 4: case/oil-drilling.md
-      - case 5: case/footbridge-feasibility.md
-      - case 6: case/champlain-bridge.md
-  - French / Français:
-      - Overview: french/index.md
-      - Writing Frameworks / Cadres d’écrit: french/writing-frameworks.md
-  - Other / Autres:
-      - Overview: other/index.md
-      - Miscellaneous Prompts / Notes diverses: other/misc-notes.md
+  
+nav:
+  - Case / Cas: case/index.md
+  - French / Français: french/index.md
+  - Other / Autres: other/index.md
+
+copyright: Copyright &copy; 2026 OQLF practice
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com
+      name: LinkedIn
+    - icon: fontawesome/brands/googlescholar
+      link: https://instagram.com
+      name: Google scholar

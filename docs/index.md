@@ -1,10 +1,10 @@
 # OQLF practice
 
 <div class="hero" markdown>
-A **simple bilingual practice site** for OQLF preparation, organized into three sections:
+A **simple practice site** for OQLF preparation, organized into three sections:
 
 - **Case / Cas** — case studies and response structure  
-- **French / Français** — useful writing frameworks, connectors, and communication phrases  
+- **French / Français** — useful writing frameworks, grammar and vocabulary  
 - **Other / Autres** — extra notes and miscellaneous prompts
 
 <p class="muted">Clean layout, easy navigation, and ready for GitHub Pages.</p>
@@ -19,9 +19,9 @@ A **simple bilingual practice site** for OQLF preparation, organized into three 
     Suggested workflow:
 
     1. Read one case study.
-    2. Draft a short response in French.
-    3. Reuse expressions from the **French / Français** section.
-    4. Save your own improved answer under the same page.
+    2. Discussion with your friends/colleagues
+    3. Draft a short summary in French.
+    4. Use tools for writing correction 
 
 === "Français"
 
@@ -30,11 +30,11 @@ A **simple bilingual practice site** for OQLF preparation, organized into three 
     Méthode conseillée :
 
     1. Lire une étude de cas.
-    2. Rédiger une courte réponse en français.
-    3. Réutiliser les expressions de la section **French / Français**.
-    4. Ajouter votre propre version améliorée sur la même page.
+    2. Discuter avec vos amis/collègues.
+    3. Rédiger un court résumé en français.
+    4. Utiliser des outils pour la correction orthographique et grammaticale.
 
-## Sections
+<!-- ## Sections
 
 <div class="grid cards" markdown>
 
@@ -67,8 +67,9 @@ A **simple bilingual practice site** for OQLF preparation, organized into three 
 
     [Open section](other/index.md)
 
-</div>
+</div> -->
 
 ## Quick note / Remarque rapide
 
 Some source notes are rough study notes rather than polished final answers. Before reusing them in an exam or formal document, verify grammar, terminology, and technical facts.
+

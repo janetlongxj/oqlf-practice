@@ -4,11 +4,12 @@ This section groups the case studies from your PDF into cleaner practice pages.
 
 ## Included cases
 
-1. Importation d’électricité des États-Unis vers le Québec
-2. Enquête sur un accident du travail dans une usine
-3. Déclassement des installations nucléaires
-4. Prévision et exploitation d’un nouveau forage pétrolier
-5. Faisabilité d’une passerelle piétonne et cycliste
+- [Importation d’électricité](electricity-import.md)
+- [Accident du travail](workplace-accident.md)
+- [Déclassement nucléaire](nuclear-decommissioning.md)
+- [Forage pétrolier](oil-drilling.md)
+- [Faisabilité de la passerelle](footbridge-feasibility.md)
+- [Reconstruction du pont Champlain](champlain-bridge.md)
 
 ## How to use these pages
 
