@@ -10,7 +10,8 @@ This section groups the case studies from your PDF into cleaner practice pages.
 - [Forage pétrolier](oil-drilling.md)
 - [Faisabilité de la passerelle](footbridge-feasibility.md)
 - [Reconstruction du pont Champlain](champlain-bridge.md)
-
+- [Analyse de rapport - Église Sainte-Marguerite](eglise-rapport.md)
+  
 ## How to use these pages
 
 - Read the **Contexte**
