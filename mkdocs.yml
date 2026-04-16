@@ -1,0 +1,58 @@
+site_name: OQLF practice
+site_description: Bilingual EN/FR practice notes for OQLF case studies, French writing, and other resources.
+site_url: https://janetlongxj.github.io/oqlf-practice/
+repo_name: janetlongxj/oqlf-practice
+repo_url: https://github.com/janetlongxj/oqlf-practice
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: white
+      accent: blue grey
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Home / Accueil: index.md
+  - Case / Cas:
+      - Overview / Vue d’ensemble: case/index.md
+      - Electricity Import / Importation d’électricité: case/electricity-import.md
+      - Workplace Accident / Accident du travail: case/workplace-accident.md
+      - Nuclear Decommissioning / Déclassement nucléaire: case/nuclear-decommissioning.md
+      - Oil Drilling / Forage pétrolier: case/oil-drilling.md
+      - Footbridge Feasibility / Faisabilité de la passerelle: case/footbridge-feasibility.md
+  - French / Français:
+      - Overview / Vue d’ensemble: french/index.md
+      - Writing Frameworks / Cadres d’écrit: french/writing-frameworks.md
+      - Connectors & Phrases / Connecteurs et phrases: french/connectors-and-phrases.md
+      - Stakeholders & Communication / Parties prenantes et communication: french/stakeholders-and-communication.md
+  - Other / Autres:
+      - Overview / Vue d’ensemble: other/index.md
+      - Champlain Bridge Notes / Notes sur le pont Champlain: other/champlain-bridge.md
+      - Miscellaneous Prompts / Notes diverses: other/misc-notes.md
