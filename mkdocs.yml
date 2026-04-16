@@ -40,19 +40,16 @@ extra_css:
 
 nav:
   - Home / Accueil: index.md
-  - Case / Cas:
-      - Overview / Vue d’ensemble: case/index.md
-      - Electricity Import / Importation d’électricité: case/electricity-import.md
-      - Workplace Accident / Accident du travail: case/workplace-accident.md
-      - Nuclear Decommissioning / Déclassement nucléaire: case/nuclear-decommissioning.md
-      - Oil Drilling / Forage pétrolier: case/oil-drilling.md
-      - Footbridge Feasibility / Faisabilité de la passerelle: case/footbridge-feasibility.md
+  - Case / Cas: 
+      - case 1: case/electricity-import.md
+      - case 2: case/workplace-accident.md
+      - case 3: case/nuclear-decommissioning.md
+      - case 4: case/oil-drilling.md
+      - case 5: case/footbridge-feasibility.md
+      - case 6: case/champlain-bridge.md
   - French / Français:
-      - Overview / Vue d’ensemble: french/index.md
+      - Overview: french/index.md
       - Writing Frameworks / Cadres d’écrit: french/writing-frameworks.md
-      - Connectors & Phrases / Connecteurs et phrases: french/connectors-and-phrases.md
-      - Stakeholders & Communication / Parties prenantes et communication: french/stakeholders-and-communication.md
   - Other / Autres:
-      - Overview / Vue d’ensemble: other/index.md
-      - Champlain Bridge Notes / Notes sur le pont Champlain: other/champlain-bridge.md
+      - Overview: other/index.md
       - Miscellaneous Prompts / Notes diverses: other/misc-notes.md
