@@ -1,15 +1,22 @@
-# Workplace Accident / Accident du travail
+# Enquête sur un accident du travail dans une usine
 
 ## Contexte
 
 Un employé d’une usine de fabrication de pièces métalliques a été gravement blessé à la main par une machine de découpe. Une enquête doit être menée pour identifier les causes de l’accident et recommander des mesures correctives.
 
-## Facteurs observés
+## Informations fournies
 
-- absence d’EPI au moment de l’accident
-- formation insuffisante
-- absence de supervision
-- procédures internes mal définies
+1. Absence d'équipements de protection individuelle (EPI) :
+   - La victime ne portait pas de gants de protection anti-coupures au moment de l'accident.
+   - Les gants étaient disponibles dans l'atelier, mais leur utilisation n'était pas systématiquement vérifiée.
+2. Manque de formation adéquate :
+   - L'employé blessé était en poste depuis seulement 3 jours.
+   - Il n'avait reçu qu'une formation théorique sommaire sur les machines, sans démonstration pratique.
+   - Aucun test de compétence n'avait été effectué avant sa mise en poste.
+3. Absence du superviseur :
+   - Le responsable d'atelier était absent le jour de l'accident (congé maladie non remplacé).
+   - Aucun autre employé n'avait été désigné pour superviser les nouveaux travailleurs.
+   - Les procédures de supervision en cas d'absence n'étaient pas clairement définies.
 
 ## Analyse des causes racines
 
