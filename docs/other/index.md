@@ -6,4 +6,4 @@ This section contains extra notes that do not fit directly into the main case-st
 ## Available notes
 
 - [Miscellaneous Prompts / Notes diverses](misc-notes.md)
-
+- [Vocabulaire](Vocab.md)
